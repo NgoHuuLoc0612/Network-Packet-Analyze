@@ -1,0 +1,24 @@
+# Enterprise Network Packet Analyzer - Requirements
+
+# Core Dependencies
+PyQt6
+scapy
+
+# Data Processing
+numpy
+pandas
+
+# Visualization
+matplotlib
+
+# File Handling & Export
+reportlab
+openpyxl
+
+# Network & Protocol Support
+dpkt
+pyshark
+
+# Additional Utilities
+python-dateutil
+pytz
