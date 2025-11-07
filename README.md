@@ -49,20 +49,6 @@ Professional-grade network packet analyzer with real-time capture, deep protocol
 - **CPU**: Multi-core processor recommended
 - **Network**: Active network interface
 
-## 🛠️ Installation
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/yourcompany/packet-analyzer.git
-cd packet-analyzer
-```
-
-### 2. Create Virtual Environment
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
 ### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
