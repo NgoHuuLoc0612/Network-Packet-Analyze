@@ -1,4 +1,4 @@
-# Enterprise Network Packet Analyzer - Requirements
+# Network Packet Analyzer - Requirements
 
 # Core Dependencies
 PyQt6
@@ -21,4 +21,5 @@ pyshark
 
 # Additional Utilities
 python-dateutil
+
 pytz
