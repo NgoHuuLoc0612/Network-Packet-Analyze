@@ -259,4 +259,4 @@ This tool is intended for authorized network analysis and security testing only.
 
 ---
 
-**Built with ❤️ for Network Security Professionals**
+**Built with ❤️**
